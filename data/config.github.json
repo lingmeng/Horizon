@@ -2,7 +2,7 @@
   "ai": {
     "provider": "openai",
     "model": "t3/gpt-5-mini",
-    "base_url": "https://lngapi.rapiddeals.com",
+    "base_url": "https://lngapi.rapiddeals.com/v1",
     "api_key_env": "LNG_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
